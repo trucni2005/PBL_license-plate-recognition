@@ -28,7 +28,6 @@
         <li>Unable to detect license plates: 0.00%</li>
         <li>Incorrectly read license plates: 5.32%</li>
         <li>Missing digits in license plates: 1.84%</li>
-        
     </ul>
   
 </body>
